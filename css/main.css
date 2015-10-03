@@ -1,0 +1,79 @@
+.title {
+  color: #fff;
+}
+
+.bar-nav {
+  background-color: #fa5c4f;
+}
+
+.bar-nav .btn-link {
+  color: #fff;
+}
+
+.home-card {
+  height: 80%;
+}
+
+.slider {
+  background-color: #fff;
+}
+
+.lb-wrap {
+  padding: 10px;
+}
+
+.lb-card-row {
+  display: table;
+}
+
+.lb-card-row .lb-profile-pic {
+  border-radius: 50%;
+  opacity: 0.6;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.lb-card-row {
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.lb-card-row h3 {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.lb-card-row .btn {
+  width: 100%;
+}
+
+.lb-si-high {
+  color: #00cc00;
+}
+.lb-si-med {
+  color: #ffcc00;
+}
+.lb-si-low {
+  color: #999;
+}
+
+.lb-compose {
+  text-align: center;
+}
+
+.lb-compose textarea {
+  padding: 10px;
+  height: 100%;
+}
+
+.lb-compose a {
+  color: white;
+  background-color: #fa5c4f;
+  width: 100%;
+}
+
+.lb-chat-bar {
+  border-top: 0;
+}
+
